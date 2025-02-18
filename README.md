@@ -16,3 +16,4 @@ A simple web project using HTML, CSS, and vanilla JavaScript. It features a "Cli
 **Usage:**  
 1. Click the **"Click Me"** button to change the heading.  
 2. Click the **"Reset"** button to revert to the original heading.  
+![Screenshot 2025-02-18 204519](https://github.com/user-attachments/assets/85ba8f1a-5cc6-49f9-93b9-96fdbf6b1d11)
